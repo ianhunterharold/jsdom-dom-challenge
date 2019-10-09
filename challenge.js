@@ -77,6 +77,7 @@ function hearted(){
     let li = document.createElement('li'); // creating a div to put inside of ul
     li.textContent = `${seconds} has been liked X(think about this more) times.`
     document.ul.likes.appendChild(li);
+    // still working on getting my appended child to show up where i want it to show up! 
   })
 };
 
