@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   addComment();
+  // debugger;
   counterStart();
   minusButton();
   addButton();
